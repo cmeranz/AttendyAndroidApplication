@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "886844339193",
+    "project_id": "attendy-24a0b",
+    "storage_bucket": "attendy-24a0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886844339193:android:20d273fe0246cdc5a7c328",
+        "android_client_info": {
+          "package_name": "com.simerankaur.attendyapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886844339193-fu17qmvm99b8d9itol0mvglm3j0l06ka.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.simerankaur.attendyapplication",
+            "certificate_hash": "6e883fde0d6f41988d3c4627a6af7483c6c7ea92"
+          }
+        },
+        {
+          "client_id": "886844339193-r2i2rjngtdpvghgrh8pmutrfr7g87drk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCbYKwvUl2HkCrXvnQyUy7sH6v7E5nWqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886844339193-r2i2rjngtdpvghgrh8pmutrfr7g87drk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
